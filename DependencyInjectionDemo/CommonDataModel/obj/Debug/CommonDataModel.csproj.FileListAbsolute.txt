@@ -1,0 +1,5 @@
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\DependencyInjectionDemo\CommonDataModel\bin\Debug\CommonDataModel.dll
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\DependencyInjectionDemo\CommonDataModel\bin\Debug\CommonDataModel.pdb
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\DependencyInjectionDemo\CommonDataModel\obj\Debug\CommonDataModel.csprojResolveAssemblyReference.cache
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\DependencyInjectionDemo\CommonDataModel\obj\Debug\CommonDataModel.dll
+C:\Users\sreddybommareddy\Documents\Visual Studio 2013\DependencyInjectionDemo\CommonDataModel\obj\Debug\CommonDataModel.pdb
